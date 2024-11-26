@@ -10,7 +10,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 # Variables de entorno para la base de datos
 ENV WORDPRESS_DB_HOST="10.79.208.3"
 ENV WORDPRESS_DB_USER="wordpress"
-ENV WORDPRESS_DB_PASSWORD="idgleb646807"
+ENV WORDPRESS_DB_PASSWORD="idgleb123"
 ENV WORDPRESS_DB_NAME="wordpress"
 
 # Instalar cualquier dependencia adicional necesaria
